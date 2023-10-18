@@ -86,6 +86,10 @@ article h2 {
     color: #F39C12;
 }
 
+#contact .wrapper h3 {
+    font-size: 16px;
+}
+
 /*** styles for ordered and unordered list ***/
 ul, ol {
     display: inline-block;
